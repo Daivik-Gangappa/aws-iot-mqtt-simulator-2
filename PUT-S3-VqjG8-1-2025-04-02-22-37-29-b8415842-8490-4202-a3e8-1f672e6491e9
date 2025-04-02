@@ -1,0 +1,14 @@
+{
+  "thingid": "dht1",
+  "temperature": 25,
+  "humidity": 60,
+  "co2": 400,
+  "datetime": "2025-03-27T15:00:00"
+}
+{
+  "thingid": "dht1",
+  "temperature": 25,
+  "humidity": 60,
+  "co2": 400,
+  "datetime": "2025-03-27T15:00:00"
+}
